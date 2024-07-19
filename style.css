@@ -1,0 +1,31 @@
+
+.header{
+	height: 10%;
+	   width: 100%;
+	   color:blanchedalmond;
+	   text-align: center;
+	   font-size: 100%;
+
+ }
+html {
+	min-height: 100%;
+	background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612800577_133-p-golubaya-laguna-fon-237.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+ }
+ .icon{
+    height: 5%;
+	   width: 5%;
+	   position:left;
+	   top:1%;
+	   right:1%;
+       border-radius: 100%;
+	   text-align:center;
+	   font-size: 100px;
+}
+.menu{
+	   text-align:center;	}
+*{
+	outline: 4px solid greenyellow !important;
+}
